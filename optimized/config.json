@@ -1,0 +1,12 @@
+{
+  "general": {
+    "denominator": 10,
+    "k_nn": 1,
+    "dim_expression": 2,
+    "num_of_small_cells": 50,
+    "domain_min": 0,
+    "domain_max": 1,
+    "di_num_buckets": 4,
+    "maxLimitSupporting": 5000
+  }
+}
